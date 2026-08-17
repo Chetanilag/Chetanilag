@@ -214,7 +214,6 @@ My goal is to build a successful career as a **Software / Java Developer** — c
 
 </div>
 
----
 
 <div align="center">
 
