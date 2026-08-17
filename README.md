@@ -49,6 +49,8 @@ I have a strong foundation in **Core Java, Advanced Java, SQL, Object-Oriented P
 | 🌱 | Continuously learning new technologies |
 | 🔧  | Learning **JDBC, Servlets & JSP** for backend development |
 | 📚  | Solving **Java coding problems & interview-focused challenges** |
+| 🧩 | Improving **Data Structures & Algorithms** for problem solving |
+| 🛠️ | Practicing **Git, GitHub & version control** workflows |
 
 </td>
 <td width="35%" align="center" valign="middle">
