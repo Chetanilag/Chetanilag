@@ -197,9 +197,6 @@ My goal is to build a successful career as a **Software / Java Developer** — c
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Chetanilag&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetanilag&layout=compact&theme=tokyonight&hide_border=true" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chetanilag&theme=tokyonight&hide_border=true" />
 
 </div>
