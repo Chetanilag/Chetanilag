@@ -6,7 +6,7 @@
 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Java+%7C+SQL+%7C+Web+Development;Turning+Ideas+Into+Applications;Always+Learning%2C+Always+Building" alt="Typing SVG" />
-<img src = "https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetan-ilag-3a85a02a9/)
