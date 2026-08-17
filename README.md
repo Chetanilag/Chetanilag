@@ -201,12 +201,6 @@ My goal is to build a successful career as a **Software / Java Developer** — c
 
 </div>
 
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Chetanilag&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
-</div>
-
 ---
 
 ## 🌐 Connect With Me
