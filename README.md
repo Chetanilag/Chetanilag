@@ -108,74 +108,79 @@ I have a strong foundation in **Core Java, Advanced Java, SQL, Object-Oriented P
 </details>
 
 ---
-
 ## 📌 Featured Projects
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏦 Fraud-Shield Banking Portal
-**Java • Web Technologies • Database**
-
-A secure banking portal designed to provide users with a reliable platform for managing banking activities while helping prevent fraudulent transactions. Maintains transaction records for monitoring and future analysis.
-
-**Key Features:**
-- 🔐 Secure banking operations
-- 💳 Transaction management
-- 🚨 Fraudulent transaction monitoring
-- 🗄️ Transaction data storage & analysis
-- 👤 User-friendly interface
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 Academic Library Management System
-**HTML • CSS • JavaScript**
-
-A simple and user-friendly system developed to manage educational resources and maintain library records for future reference.
-
-**Key Features:**
-- 📖 Educational resource management
-- 🗂️ Data organization
-- 📝 Record management
-- 💻 Interactive user interface
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🗣️ Text-To-Speech Converter
-**HTML • CSS • JavaScript**
-
-A web-based converter that turns user-entered text into speech, supporting multiple languages.
-
-**Key Features:**
-- 🔊 Text-to-speech conversion
-- 🌎 Multi-language support: 🇮🇳 Hindi · 🇮🇳 Marathi · 🇸🇦 Arabic · 🇬🇧 English
-- 🎨 Simple and interactive interface
-
-</td>
-<td width="50%" valign="top">
-
-### 🎓 College Website Portal
-**HTML • CSS • JavaScript**
-
-An immersive and interactive portal designed to give students easy access to important college information and services.
-
-**Key Features:**
-- 🏫 College information portal
-- 📝 Application forms & fees section
-- 📋 Student-related forms
-- 📱 User-friendly design
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🏦 Fraud-Shield Banking Portal</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Web_Tech-1572B6?style=for-the-badge&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+      </p>
+      <p>A secure <b>Fraud Shield Banking Portal</b> designed to provide users with a reliable platform for managing banking activities while helping prevent fraudulent transactions.</p>
+      <p><b>Key Features:</b></p>
+      <ul>
+        <li>🔐 Secure banking operations & transaction management</li>
+        <li>🚨 Fraudulent transaction monitoring & analysis</li>
+        <li>🗄️ Secure transaction data storage</li>
+        <li>👤 User-friendly interface with focus on reliability</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📚 Advanced Academic Library System</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      </p>
+      <p>A simple and user-friendly <b>Library Management System</b> developed to manage educational resources and maintain library records for future reference.</p>
+      <p><b>Key Features:</b></p>
+      <ul>
+        <li>📖 Educational resource & record management</li>
+        <li>🗂️ Efficient data organization</li>
+        <li>💻 Interactive user interface</li>
+        <li>📚 Easy access to library resources</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🗣️ Text-To-Speech Converter</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      </p>
+      <p>A web-based <b>Text-To-Speech Converter</b> that converts user-entered text into speech and supports multiple languages.</p>
+      <p><b>Key Features:</b></p>
+      <ul>
+        <li>🔊 Text-to-speech conversion engine</li>
+        <li>🌎 Multi-language support (Hindi 🇮🇳, Marathi 🇮🇳, Arabic 🇸🇦, English 🇬🇧)</li>
+        <li>🎨 Simple and interactive interface</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎓 College Website Portal</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      </p>
+      <p>An immersive and interactive <b>College Website Portal</b> designed to provide students with easy access to important college information and services.</p>
+      <p><b>Key Features:</b></p>
+      <ul>
+        <li>🏫 Integrated college information portal</li>
+        <li>📝 Application forms & fees section</li>
+        <li>📋 Student-related service forms</li>
+        <li>📱 Fully responsive & user-friendly design</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 ---
-
 ## 🧠 What I Enjoy
 
 ☕ Building applications with Java &nbsp;·&nbsp; 💻 Developing web-based projects &nbsp;·&nbsp; 🧩 Solving programming problems &nbsp;·&nbsp; 🗄️ Working with databases & SQL &nbsp;·&nbsp; 🚀 Learning new technologies &nbsp;·&nbsp; 🤝 Collaborating with teams &nbsp;·&nbsp; 💡 Turning ideas into practical applications
