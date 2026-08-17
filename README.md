@@ -27,9 +27,14 @@ I have a strong foundation in **Core Java, Advanced Java, SQL, Object-Oriented P
 
 ---
 
+<table width="100%">
+<tr>
+<td colspan="2">
+
 ## 🚀 What I'm Currently Working On
 
-<table>
+</td>
+</tr>
 <tr>
 <td width="65%" valign="top">
 
