@@ -1,16 +1,52 @@
-## Hi, I'am Chetan
+## Hi, I'am Chetan Ilag..!
 
-<!--
-**Chetanilag/Chetanilag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Name:
+GitHub Username:
+Current title / role:
+Example: Computer Engineering Graduate | Aspiring Java Developer
 
-Here are some ideas to get you started:
+Short introduction:
+What kind of work do you enjoy?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on:
+1.
+2.
+3.
+4.
+
+Skills:
+Programming:
+Web:
+Database:
+Frameworks:
+Tools:
+Other:
+
+Projects:
+1. Project name:
+   Description:
+   Technologies:
+   GitHub link:
+
+2. Project name:
+   Description:
+   Technologies:
+   GitHub link:
+
+3. Project name:
+   Description:
+   Technologies:
+   GitHub link:
+
+Achievements:
+1.
+2.
+3.
+
+LinkedIn:
+LeetCode:
+Portfolio:
+Instagram (optional):
+Email (optional):
+
+Anything else you want on the profile:
