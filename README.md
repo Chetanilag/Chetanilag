@@ -1,212 +1,98 @@
-# Hi, I'm Chetan 👋
+<div align="center">
 
-### 💻 Java Developer | Computer Engineering Graduate | Java • SQL • Web Development
+# Hi there, I'm Chetan! 👋
 
-I'm a Computer Engineering graduate passionate about **Java development, software engineering, and web technologies**. I enjoy building practical applications, solving programming problems, and continuously improving my technical skills through hands-on projects.
+### 💻 Java Developer | Computer Engineering Graduate | Problem Solver
 
-I have a strong foundation in **Core Java, Advanced Java, SQL, Object-Oriented Programming, HTML, CSS, and JavaScript**. I'm currently focused on strengthening my development skills and building reliable, user-friendly applications.
+<p align="center">
+  <a href="https://www.linkedin.com/in/chetan-ilag-3a85a02a9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:chetanilag09@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/chetan_ilag"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
-I enjoy working on projects where I can **turn ideas into functional applications, solve real-world problems, learn new technologies, and contribute effectively as part of a team.**
+</div>
+
+---
+
+## ⚡ About Me
+
+I am a Computer Engineering graduate passionate about **Java development, software engineering, and web technologies**. I thrive on turning ideas into functional, reliable, and user-friendly applications, solving real-world programming challenges, and continually refining my technical toolkit.
+
+* 🎓 **Background:** Computer Engineering Graduate
+* 🔭 **Core Focus:** Java Development, Software Engineering, and Database Management
+* 🌱 **Current Goal:** Securing an impactful role as a Software/Java Developer
+* 💡 **Philosophy:** *"Keep learning. Keep building. Keep growing."*
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+<div align="center">
+
+### Languages & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=java,mysql" alt="Java and MySQL" />
+</p>
+
+### Web Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JavaScript" />
+</p>
+
+</div>
+
+* **Core Computer Science:** Object-Oriented Programming (OOP), Exception Handling, Method Overloading/Overriding, Basic Data Structures & Problem Solving.
+* **Database Fundamentals:** Relational Databases, Complex SQL Queries, Database Management.
+* **Soft Skills:** Leadership, Teamwork, Adaptability, Effective Communication, Fast Learner.
 
 ---
 
 ## 🚀 What I'm Currently Working On
 
-- ☕ Strengthening my **Core Java & Advanced Java** skills
-- 💻 Building practical **Java and Web Development projects**
-- 🗄️ Improving my **SQL and database management** skills
-- 🌐 Developing interactive applications using **HTML, CSS & JavaScript**
-- 🧠 Practicing **Object-Oriented Programming and problem solving**
-- 🚀 Preparing for opportunities in **Software Development / Java Development**
-- 🌱 Continuously learning new technologies and improving my technical skills
-
----
-
-## 🛠️ Technical Skills
-
-### ☕ Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java" />
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-- Java
-- Advanced Java
-- SQL
-
-### 🌐 Web Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
-
-- HTML
-- CSS
-- JavaScript
-
-### 🗄️ Database Management
-
-- Relational Databases
-- SQL Queries
-- Database Fundamentals
-
-### 🧠 Core Computer Science
-
-- Object-Oriented Programming (OOP)
-- Exception Handling
-- Method Overloading
-- Method Overriding
-- Basic Data Structures & Problem Solving
-
-### 🤝 Soft Skills
-
-- Leadership
-- Teamwork
-- Adaptability
-- Communication
-- Positive Mindset
-- Quick Learning
+- ☕ Advancing my expertise in **Core & Advanced Java**
+- 💻 Architecting practical **Java & Web Development projects**
+- 🗄️ Mastering **SQL query optimization & database management**
+- 🧠 Strengthening my **Data Structures, Algorithms & OOP** principles
+- 🚀 Actively seeking and preparing for **Software/Java Development** opportunities
 
 ---
 
 ## 📌 Featured Projects
 
-### 🏦 Fraud-Shield Banking Portal
+<div align="center">
 
-**Java • Web Technologies • Database**
+| Project Name | Description & Highlights | Tech Stack |
+| :--- | :--- | :--- |
+| **🏦 Fraud-Shield Banking Portal** | A secure platform for managing banking operations with integrated fraud transaction monitoring and transaction data storage. | `Java` `Web Tech` `Database` |
+| **📚 Advanced Academic Library Management System** | A streamlined system designed to organize educational resources, track borrowing, and maintain efficient library records. | `HTML` `CSS` `JavaScript` |
+| **🗣️ Text-To-Speech Converter** | A dynamic web tool supporting multi-language speech conversion (English, Hindi, Marathi, Arabic) with a sleek interface. | `HTML` `CSS` `JavaScript` |
+| **🎓 College Website Portal** | An interactive student portal featuring application forms, fee management, academic resources, and streamlined navigation. | `HTML` `CSS` `JavaScript` |
 
-A secure **Fraud Shield Banking Portal** designed to provide users with a reliable platform for managing banking activities while helping prevent fraudulent transactions.
-
-The system allows users to perform banking operations securely while maintaining transaction records for monitoring and future analysis.
-
-### Key Features
-
-- 🔐 Secure banking operations
-- 💳 Transaction management
-- 🚨 Fraudulent transaction monitoring
-- 🗄️ Transaction data storage
-- 📊 Transaction analysis
-- 👤 User-friendly interface
-- 🛡️ Focus on reliability and security
+</div>
 
 ---
 
-### 📚 Advanced Academic Library Management System
+## 📊 GitHub Analytics
 
-**HTML • CSS • JavaScript**
+<div align="center">
 
-A simple and user-friendly **Library Management System** developed to manage educational resources and maintain library records for future reference.
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Chetanilag&show_icons=true&theme=tokyonight&hide_border=true" alt="Chetan's GitHub Stats" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Chetanilag&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></td>
+  </tr>
+</table>
 
-### Key Features
-
-- 📖 Educational resource management
-- 🗂️ Data organization
-- 📝 Record management
-- 💻 Interactive user interface
-- 📚 Easy access to library resources
-
----
-
-### 🗣️ Text-To-Speech Converter
-
-**HTML • CSS • JavaScript**
-
-A web-based **Text-To-Speech Converter** that converts user-entered text into speech and supports multiple languages.
-
-### Key Features
-
-- 🔊 Text-to-speech conversion
-- 🌎 Multiple language support
-- 🇮🇳 Hindi
-- 🇮🇳 Marathi
-- 🇸🇦 Arabic
-- 🇬🇧 English
-- 🎨 Simple and interactive interface
-
----
-
-### 🎓 College Website Portal
-
-**HTML • CSS • JavaScript**
-
-An immersive and interactive **College Website Portal** designed to provide students with easy access to important college information and services.
-
-### Key Features
-
-- 🏫 College information portal
-- 📝 Application forms
-- 💰 Fees section
-- 📋 Various student-related forms
-- 🌐 Interactive website interface
-- 📱 User-friendly design
-
----
-
-## 🧠 What I Enjoy
-
-- ☕ Building applications with Java
-- 💻 Developing web-based projects
-- 🧩 Solving programming problems
-- 🗄️ Working with databases and SQL
-- 🚀 Learning new technologies
-- 🤝 Collaborating with teams
-- 💡 Turning ideas into practical applications
-
----
-
-## 🎯 Career Goal
-
-My goal is to build a successful career as a **Software / Java Developer**, continuously improve my technical expertise, work on challenging real-world projects, and contribute to an organization through reliable and efficient software solutions.
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/chetan-ilag-3a85a02a9/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=Chetanilag&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
-**LinkedIn:**  
-https://www.linkedin.com/in/chetan-ilag-3a85a02a9/
-
-**GitHub:**  
-https://github.com/Chetanilag
-
-**Instagram:**  
-@chetan_ilag
-
-**Email:**  
-chetanilag09@gmail.com
+</div>
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chetanilag&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+### ⭐ Thanks for stopping by! Let's build something amazing together.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chetanilag&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Profile
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chetanilag&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
-
----
-
-### ⭐ Thanks for visiting my profile!
-
-**Feel free to explore my repositories and connect with me.**
-
-<p align="center">
-  <i>“Keep learning. Keep building. Keep growing.”</i>
-</p>
+</div>
