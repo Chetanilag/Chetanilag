@@ -29,9 +29,7 @@ I have a strong foundation in **Core Java, Advanced Java, SQL, Object-Oriented P
 
 ## 🚀 What I'm Currently Working On
 
-<table>
-<tr>
-<td width="65%" valign="top">
+
 
 | | |
 |---|---|
@@ -43,14 +41,10 @@ I have a strong foundation in **Core Java, Advanced Java, SQL, Object-Oriented P
 | 🎯 | Preparing for opportunities in **Software / Java Development** |
 | 🌱 | Continuously learning new technologies |
 
-</td>
-<td width="55%" align="center" valign="middle">
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500"/>
 
-</td>
-</tr>
-</table>
+
 
 ---
 
