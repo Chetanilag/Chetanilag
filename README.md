@@ -48,7 +48,6 @@ I have a strong foundation in **Core Java, Advanced Java, SQL, Object-Oriented P
 **Programming & Database**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Web Technologies**
@@ -177,11 +176,6 @@ My goal is to build a successful career as a **Software / Java Developer** — c
 
 </div>
 
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Chetanilag&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
-</div>
 
 ---
 
